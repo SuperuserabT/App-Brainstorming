@@ -1,0 +1,4 @@
+An app that helps with grammar, and spelling.
+An app that tells you how much fuel/gas you will use on a trip.
+An app that can be used to guage how much water you use, and helps you save more.
+An app that is a mixture of a to-do list and a reminder app; you can put things on a to-do list, set a date and time, then get reminded.
